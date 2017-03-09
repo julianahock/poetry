@@ -1,3 +1,5 @@
+README
+
 This is our readme file. 
 We can communicate here a bit, 
 but also doing things through email would probably still be good.
@@ -12,6 +14,6 @@ and then push changes to each fork,
 and then do pull requests to the other three people in the group
 for it to merge with the main again
 
-so hopefully now we can sort of get going with this website 
+so hopefully now we can sort of get going with this poetry website project
 
 -benji
